@@ -48,7 +48,7 @@
 
 | CS50SQL  - 2025  | CS50P  - 2025   | CS50W  - 2024 - 2025   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![CS50SQL](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/CS50SQL.png "HARVARD - Introduction to Databases with SQL") | ![CS50P](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/CS50P.png "HARVARD - Introduction to Programming with Python") | ![CS50W](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/CS50W.png "HARVARD - Web Programming with Python and JavaScript") |
+| ![CS50SQL](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/CS50SQL.png?raw=true "HARVARD - Introduction to Databases with SQL") | ![CS50P](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/CS50P.png?raw=true "HARVARD - Introduction to Programming with Python") | ![CS50W](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/CS50W.png?raw=true "HARVARD - Web Programming with Python and JavaScript") |
 
 <br/><br/>
 
@@ -56,7 +56,7 @@
 
 | Python OOP  - 2025| Python OOP  - 2025 | Python  - 2025 | Docker  - 2024  |
 |------------|------------|--------|----------------------------------------------------------------------------------------------------------|
-| ![Python OOP](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/Python_oop_samurai.png "Python") | ![Good Good Python](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/good_good_python_sergey_balakirev.png "Python") | ![Indie Python](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/IndiePythonProgramming.png "Python") | ![Docker](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/Docker.png "Docker") |
+| ![Python OOP](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/Python_oop_samurai.png?raw=true "Python") | ![Good Good Python](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/good_good_python_sergey_balakirev.png?raw=true "Python") | ![Indie Python](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/IndiePythonProgramming.png?raw=true "Python") | ![Docker](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/Docker.png?raw=true "Docker") |
 
 <br/><br/>
 
@@ -64,7 +64,7 @@
 
 | PHP - 2011  | CSS - 2009  | NodeJS - 2022  |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| ![PHP](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/php.png "PHP") | ![CSS](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/css.png "CSS") | ![NodeJS](https://gitlab.com/vadim_nevinskiy/vadim_nevinskiy/-/raw/main/screenshots/Node.png "NodeJS") |
+| ![PHP](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/php.png?raw=true "PHP") | ![CSS](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/css.png?raw=true "CSS") | ![NodeJS](https://github.com/vadimnevinskiy/vadimnevinskiy/blob/main/screenshots/Node.png?raw=true "NodeJS") |
 
 <br/>
 
@@ -116,7 +116,7 @@
 
 #### Ссылки:
 
-- 🔗 [Исходный код GitLab](https://gitlab.com/vadim_nevinskiy/lokker)
+- 🔗 [Исходный код GitHub](https://github.com/vadimnevinskiy/lokker)
 - 🔗 [Страница презентации - Landing Page](https://getlokker.vercel.app/)
 
 ------
