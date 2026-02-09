@@ -8,6 +8,17 @@
 До 2024 года — коммерческая разработка на React.  
 С 2024 года — активный фокус на Backend и Python.
 
+-------
+
+## 🧾 Development History 
+
+Основная активность и история проектов до 2026 года: 
+
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vadim_nevinskiy)
+
+<br/>
+GitHub: 2019 - 2021 &nbsp;&nbsp; ▶ &nbsp;&nbsp; GitLab: 2022 - 2026 &nbsp;&nbsp; ▶ &nbsp;&nbsp; GitHub: 2026 &nbsp;&nbsp; ▶ &nbsp;&nbsp; `Date.now()`
+<br/>
 
 -------
 
