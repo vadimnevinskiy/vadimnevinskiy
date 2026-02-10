@@ -128,7 +128,7 @@ GitHub: 2019 - 2021 &nbsp;&nbsp; ➡ &nbsp;&nbsp; GitLab: 2022 - 2026 &nbsp;&nbs
 #### Ссылки:
 
 - 🔗 [Исходный код GitHub](https://github.com/vadimnevinskiy/lokker)
-- 🔗 [Страница презентации - Landing Page](https://getlokker.vercel.app/)
+- 🔗 [Страница презентации - Landing Page](https://vadimnevinskiy.github.io/getlokker/)
 
 ------
 
