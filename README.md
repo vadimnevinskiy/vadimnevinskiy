@@ -79,7 +79,7 @@ GitHub: 2019 - 2021 &nbsp;&nbsp; ➡ &nbsp;&nbsp; GitLab: 2022 - 2026 &nbsp;&nbs
 
 <br/>
 
-[Больше информации на LinkedIn](https://linkedin.com/in/vadim-nevinskiy-05a08696/)
+[Больше информации на LinkedIn](https://www.linkedin.com/in/vadim-nevinskiy/)
 
 -------
 
@@ -134,7 +134,7 @@ GitHub: 2019 - 2021 &nbsp;&nbsp; ➡ &nbsp;&nbsp; GitLab: 2022 - 2026 &nbsp;&nbs
 
 ## ✉ Контакты:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vadim-nevinskiy-05a08696/) &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-nevinskiy/) &nbsp; 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/vadim_nevinskiy) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nevinskiyvadim@gmail.com) &nbsp;
 
